@@ -1,93 +1,104 @@
-# 🗓️ Gar's Balanced Routine (Coding + MU + Work)
+# 🗓️ Gar's Balanced Routine (Coding + Work + Life + Weekend MU Time)
 
-> Goal: Mag-improve sa problem solving at coding skills habang may healthy balance sa work at "baby time" 😏
+> Goal: Focused weekdays for coding & projects, chill and MU time sa weekend 😌
 
 ---
 
 ## 🌅 Morning Routine
 
-**7:00 AM – 8:00 AM**
-- ☀️ Gising, kape, at light breakfast  
-- 🧘 No phone muna, mag-isip ng goals for the day  
-- 🎧 Optional: Chill music or podcast habang nagpe-prepare  
+**6:30 AM – 8:00 AM**
+- ☀️ Gising, kape  
+- 🍳 **Magluto ng breakfast / meal prep**  
+- 🧘 Light stretch or quick exercise  
+- 🎧 Optional: morning music or podcast  
+
+> *Start calm, no phone muna. Let your brain wake up naturally.*
 
 ---
 
 ## 💻 Focus / Work Block 1
 
 **8:00 AM – 12:00 NN**
-- 🧠 Deep work: coding, project tasks, problem solving practice  
-- 🔕 Put phone on silent (focus mode)  
-- ⏱️ Pomodoro style: 45 mins work / 15 mins short break  
+- 🧠 Deep work: project tasks, coding, or problem-solving practice  
+- 🔕 Focus mode ON  
+- ⏱️ Pomodoro: 45 mins focus / 15 mins short break  
 
-> 💡 *Tip:* Treat this block as your “grind time”. No distractions, puro productivity.
+> 💡 *No MU chat during this time — total grind mode.*
 
 ---
 
 ## 🍽️ Midday Recharge
 
 **12:00 NN – 1:00 PM**
-- Lunch break  
-- Quick scroll or chat kay MU 😄  
-- Short nap or walk if needed  
+- 🍚 Lunch break  
+- 💤 Short rest or chill scroll  
+- 💬 Light chat (optional, quick lang)  
 
 ---
 
 ## 💻 Focus / Work Block 2
 
 **1:00 PM – 4:00 PM**
-- Continue with project-based tasks (client or personal project)  
-- Review pull requests, test features, or debug  
-- If wala masyadong work, spend 1 hour on **problem-solving practice** (LeetCode, HackerRank, etc.)  
+- Continue project work / debugging / commits  
+- Review tasks or learn new concepts  
+- Keep focus — weekdays are for skill-building 💪  
 
 ---
 
-## 🌆 Late Afternoon Chill
+## 🏍️ Afternoon Reset / Ride Time
 
 **4:00 PM – 6:00 PM**
-- Exercise or relax — walk, gym, or music time  
-- Pwede rin quick call or chat kay MU (light lang, no drama 😂)  
+- 🏍️ **Motor ride or drive time** — clear your head  
+- ☕ Optional stopover or music chill  
+- 🧘 Mental reset before dinner  
 
 ---
 
 ## 🌙 Evening Routine
 
 **6:00 PM – 8:00 PM**
-- Dinner + unwind  
-- Chat or video call kay MU 🥰  
-- Kung may deadline, light work lang (no heavy debugging sa gabi)
+- 🍳 **Magluto ng dinner**  
+- 🍴 Dinner + relax  
+- 🎧 Music or solo chill (no MU time — self-care muna)  
 
 ---
 
-## 🌜 Study / Growth Block (Optional)
+## 🧠 Study / Growth Block (Optional)
 
 **8:00 PM – 10:00 PM**
-- Study advanced coding topics or frameworks  
+- Study advanced coding, React Native, or algorithms  
 - Review what you learned today  
-- Plan tasks for tomorrow  
+- Plan for tomorrow  
 
 ---
 
 ## 🌃 Wind Down
 
 **10:00 PM – onwards**
-- Chill, music, or “baby time” 😏  
-- Sleep early for fresh brain next day  
+- 🎧 Chill music, journaling, or movie  
+- 💤 Sleep early para energized bukas  
 
 ---
 
-## 🕶️ Weekend Routine (Flexible)
+## 🕶️ **WEEKEND MODE (Friday Night – Sunday)**
 
-- 50% focus (coding practice, side projects, or learning)  
-- 50% chill (MU bonding, social time, or full rest)  
-- Reflect on weekly goals and set new ones
+**Morning / Afternoon**
+- 🧑‍💻 Light coding or review (2–3 hrs max)  
+- 🏍️ Ride time / chill / errands  
+- 🧘 Reflect on weekly progress  
+
+**Evening**
+- 💬 **Full MU time!** Date, video call, beach, or hangout 🥰  
+- 🏝️ Enjoy, recharge, and celebrate progress  
+- 😌 No guilt, you earned this time  
 
 ---
 
 > ⚡ **Reminders:**
-> - “Discipline first, reward later.”  
-> - Use MU as motivation, not distraction.  
-> - Always leave at least 1 hour daily for pure focus — no chat, no scroll.
+> - Weekdays = grind mode 💻  
+> - Weekend = reward + MU mode 💕  
+> - Always cook, ride, and rest — they keep you balanced.  
+> - “Discipline is choosing between what you want now and what you want most.”  
 
 ---
 
